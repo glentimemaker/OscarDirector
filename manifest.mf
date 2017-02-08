@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: Oscar.OscarDirector
+Class-Path: Oscar\esri_mo20.jar Oscar\esri_mo20res.jar
+X_COMMENT: Main-Class says where main method lives
