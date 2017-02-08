@@ -1,11 +1,5 @@
 package Oscar;
-// This project is about displaying the 20 most Earthquake-Vulnerable Cities in
-// the world. The database table has the maximum number of death casued by earthquake for
-// each city along with the maximum magnitude of shake observed in the past. When clicked
-// hotlink a picture along with a browser button (to show past earthquake history) will
-// appear for each of them. This program give the ability to easily add a point theme from
-// a file of points with lines in the form longitude,latitude in world coordinates. It has
-// a help menuitem to show small description of each tool kit and menu item  
+
 import java.awt.Color;
 import java.awt.Cursor;
 import java.awt.MediaTracker;
